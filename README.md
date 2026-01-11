@@ -18,7 +18,6 @@ The system generates match schedules, manages points tables, and stores data usi
 - `src/` – C source files (scheduler + GTK GUI)
 - `data/` – Match schedules and points tables
 - `assets/` – Images used in the GUI
-
-## How to Run
-1. Compile using GCC with GTK installed
-2. Run the generated executable
+- 
+## Author
+Created by **Shree Vishali K**
